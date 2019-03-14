@@ -13,5 +13,8 @@ public class DemoApplication {
 		System.out.println("branch1");
 		System.out.println("-- branch2 --");
 		System.out.println("... branch2 ...");
+		
+		System.out.println("test commit");
+		
 	}
 }
